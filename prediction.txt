@@ -1,0 +1,5 @@
+console.log(10+5);          -> 15        (addition)
+console.log("10"+5);        -> "105"     (chaîne + nombre = concaténation)
+console.log(10/4);          -> 2.5       (division décimale)
+console.log(10%4);          -> 2         (modulo : reste de 10 / 4)
+console.log(typeof "true"); -> "string"  (entre guillemets = chaîne)
